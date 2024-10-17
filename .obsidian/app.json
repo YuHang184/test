@@ -1,0 +1,10 @@
+{
+  "strictLineBreaks": true,
+  "trashOption": "local",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "00 inbox",
+  "attachmentFolderPath": "attach",
+  "alwaysUpdateLinks": false,
+  "autoPairMarkdown": true,
+  "promptDelete": false
+}

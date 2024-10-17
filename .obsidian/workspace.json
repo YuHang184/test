@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "6e24db3b1bd95506",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc85f4208c93cb78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "646beb3ae03b2694",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日本語/词汇/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d3ed8b5668d3cf11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日本語/词汇/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1f494e96e8f10b05",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0e59ffb6d44ccb8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0800ec427d97ac76",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6833724535711b88",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#flashcard",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8cd4a48f85b77339",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "12991599e38a7b59",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "223b6556791cb247",
+    "type": "split",
+    "children": [
+      {
+        "id": "16fbc05c8b05691e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43a17e0bee3fc14a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "日本語/词汇/Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6a537b11882e3753",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "842a0a112e46d0ed",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "日本語/词汇/Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "af9bd50171f8d6e8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "日本語/词汇/Untitled.md"
+              }
+            }
+          },
+          {
+            "id": "6fd153a1acf08661",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 315.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
+      "obsidian-statusbar-pomo:Start pomodoro": false,
+      "obsidian-memos:Thino": false,
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
+    }
+  },
+  "active": "d3ed8b5668d3cf11",
+  "lastOpenFiles": [
+    "日本語/课件.md",
+    "attach/W7R4MP}]LE(ABH@CH`G$NJ6.png",
+    "attach/EXJTX]5A%D8LK(@EBK~[L%F.png",
+    "attach/G]L]S7BSHC78GFP)JE6{TV7.png",
+    "日本語/词汇/Untitled.md",
+    "日本語/词汇/n2.md",
+    "00 inbox/学习obsdian.md",
+    "01 日记/20240621_Fri.md",
+    "日本語/n2test/n2.md",
+    "日本語/氷菓/氷菓.md",
+    "日本語/n2test",
+    "00 inbox/资源网址.md",
+    "01 日记/20240526_Sun.md",
+    "日本語/词汇/一些生词.md",
+    "日本語/词汇/副词.md",
+    "日本語/氷菓/京吹.md",
+    "01 日记/20240520_Mon.md",
+    "日本語/京吹",
+    "01 日记/20240519_Sun.md",
+    "日本語/词汇",
+    "01 日记/20240518_Sat.md",
+    "日本語/文法/N3.md",
+    "00 templates/日记.md",
+    "01 日记/20240517_Fri.md",
+    "01 日记/20240516_Thu.md",
+    "01 日记/20240515_Wed.md",
+    "00 inbox/nihongo.md",
+    "01 日记/20240514_Tue.md",
+    "01 日记/20240513_Mon.md",
+    "日本語/氷菓",
+    "日本語/文法",
+    "日本語",
+    "01 日记/20240512_周日.md",
+    "00 templates",
+    "01 日记",
+    "00 inbox/2024-05-12.md",
+    "attach",
+    "00 inbox"
+  ]
+}

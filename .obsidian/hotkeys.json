@@ -1,0 +1,26 @@
+{
+  "quickadd:choice:db5ce322-7e7f-4862-8b84-50fe3fd52b95": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "X"
+    }
+  ],
+  "quickadd:choice:a10056b5-16da-49b1-9032-ef336f80c99d": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Z"
+    }
+  ],
+  "quickadd:choice:ce2f5570-43f2-432b-b44e-f2855802cfee": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Z"
+    }
+  ]
+}
